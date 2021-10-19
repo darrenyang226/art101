@@ -1,6 +1,7 @@
 // Lab 5 Variables Javascript file
 // A Javascript file including a set of variables describing Darren's car.
 // @author Ryan McCarty and Darren Yang
+// @link: https://darrenyang226.github.io/art101/lab5/
 // @since  10.13.2021
 var make = "Toyota";
 var model = "RAV4 Hybrid";
