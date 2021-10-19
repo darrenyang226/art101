@@ -2,12 +2,12 @@
 // A Javascript file including a set of variables describing Darren's car.
 // @author Ryan McCarty and Darren Yang
 // @since  10.13.2021
-Var make = "Toyota";
-Var model = "RAV4 Hybrid";
-Var color = "White";
-Var year = 2020;
-Var ownIt = true;
-Var age = 2021 - year;
+var make = "Toyota";
+var model = "RAV4 Hybrid";
+var color = "White";
+var year = 2020;
+var ownIt = true;
+var age = 2021 - year;
 console.log("Age: " + age);
 
 
